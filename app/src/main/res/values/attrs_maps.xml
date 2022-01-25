@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="Maps">
+        <attr name="exampleStringMaps" format="string" />
+        <attr name="exampleDimensionMaps" format="dimension" />
+        <attr name="exampleColorMaps" format="color" />
+        <attr name="exampleDrawableMaps" format="color|reference" />
+    </declare-styleable>
+</resources>

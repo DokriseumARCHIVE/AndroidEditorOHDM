@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="Row">
+        <attr name="exampleStringRow" format="string" />
+        <attr name="exampleDimensionRow" format="dimension" />
+        <attr name="exampleColorRow" format="color" />
+        <attr name="exampleDrawableRow" format="color|reference" />
+    </declare-styleable>
+</resources>
